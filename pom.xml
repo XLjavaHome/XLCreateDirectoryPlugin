@@ -20,10 +20,6 @@
                     <encoding>utf8</encoding>
                 </configuration>
             </plugin>
-            <plugin>
-                <groupId>com.xl</groupId>
-                <artifactId>xlcreateDirectoryMavenPlugin</artifactId>
-            </plugin>
         </plugins>
     </build>
     <dependencies>
